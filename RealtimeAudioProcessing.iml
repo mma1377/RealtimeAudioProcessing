@@ -7,6 +7,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="openjfx-19_linux-x64_bin-sdk" level="project" />
   </component>
 </module>
